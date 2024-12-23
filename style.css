@@ -1,3 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h2 {
-    background-color: aquamarine;
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: overline;
+    font-size: 60px;
+
+
+}
+.heaading-parent {
+    background-color: blue;
+    height: 600px;
+    padding: 100px 0px;
+    margin: 60px 60px;
 }
